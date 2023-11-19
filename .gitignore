@@ -1,0 +1,6 @@
+node_modules
+.env
+.vercel
+yarn-error.log
+.vercelignore
+dist/
